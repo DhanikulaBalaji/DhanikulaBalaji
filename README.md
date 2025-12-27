@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on<br>DevOps projects focused on CI/CD pipelines, Dockerized applications, and cloud deployments.<br><br>👯 I’m looking to collaborate on<br>Open-source DevOps, cloud automation, and beginner-friendly MLOps projects.<br><br>🤝 I’m looking for help with<br>Advanced Kubernetes concepts, production-grade CI/CD workflows, and cloud best practices.<br><br>🌱 I’m currently learning<br>Linux internals, Docker networking, Jenkins, Terraform, Kubernetes, and MLOps fundamentals.<br><br>💬 Ask me about<br>DevOps basics, Docker, CI/CD pipelines, Linux, and deploying applications to the cloud.<br><br>⚡ Fun fact<br>I enjoy breaking systems just to understand how to fix and improve them 😄
 
 
